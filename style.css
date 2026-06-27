@@ -1,0 +1,170 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+header {
+  padding-top: 36px;
+  padding-left: 185px;
+  padding-right: 185px;
+}
+
+.firstpart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 36px;
+}
+.contactdiv {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+}
+
+.calldiv {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.emaildiv {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.socialdiv {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: #909090;
+}
+.secondpart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.authdiv {
+  display: flex;
+  gap: 30px;
+}
+.navdiv {
+  font-size: 16px;
+  color: #333333;
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
+}
+.furniture {
+  font-size: 26px;
+  font-weight: 600;
+}
+.furniturenav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.signinbutton {
+  all: unset;
+  cursor: pointer;
+  color: #f97316;
+  font-size: 18px;
+}
+
+.signupbutton {
+  all: unset;
+  padding-left: 30px;
+  padding-top: 12px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  background-color: #fb923c;
+  border-radius: 23px;
+  border-color: #fb923c;
+  cursor: pointer;
+  color: white;
+  font-size: 18px;
+}
+
+.sectionone {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 67px;
+  gap: 57px;
+}
+
+.perfectheader {
+  font-size: 45px;
+  font-weight: 700;
+  color: #333333;
+}
+
+.perfectp {
+  font-size: 19px;
+  font-weight: 400;
+  color: #999999;
+}
+
+.ornament {
+  width: 627px;
+  height: 415px;
+  border-radius: 43px;
+}
+
+.leftbutton {
+  all: unset;
+  color: #333333;
+  font-size: 14px;
+  border: 1px solid #333333;
+  border-radius: 24px;
+  padding: 12px 16px 12px 16px;
+  cursor: pointer;
+}
+
+.rightbutton {
+  all: unset;
+}
+
+.videoicon {
+  width: 37px;
+  height: 37px;
+}
+
+.buttondiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.whitediv {
+  margin-top: 14px;
+  width: 970px;
+  height: 97px;
+  position: absolute;
+  border-radius: 74px;
+  align-items: center;
+  padding-left: 52px;
+  box-shadow: 0 4px 8px;
+}
+
+.cozydiv {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  justify-content: center;
+}
+.cozydiv1 {
+  gap: 4px;
+  height: 20px;
+  display: flex;
+}

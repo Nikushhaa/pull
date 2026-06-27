@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background: #fff;
+  color: #1e1e1e;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 40px;
+  font-size: 14px;
+  background-color: #f5f5f5;
+}
+
+.email {
+  color: #333;
+}
+
+.social-icons span {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.site-title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-right: 40px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  font-size: 16px;
+}
+
+.nav-right button {
+  margin-left: 10px;
+  padding: 8px 18px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.login-btn {
+  background: transparent;
+  color: #333;
+}
+
+.signup-btn {
+  background-color: #ff6b00;
+  color: white;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 40px;
+  background-color: #fafafa;
+}
+
+.hero-text {
+  max-width: 50%;
+}
+
+.hero-text h1 {
+  font-size: 48px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.hero-text h1 span {
+  color: #ff6b00;
+}
+
+.hero-text p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.hero-buttons button {
+  padding: 12px 24px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.shop-btn {
+  background-color: #000;
+  color: white;
+}
+
+.watch-btn {
+  background-color: #eee;
+  color: #000;
+}
+
+.badges {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 14px;
+  color: #444;
+}
+
+.hero-image img {
+  max-width: 500px;
+  border-radius: 20px;
+  margin-right: 600px;
+}
+
+.brands {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 40px;
+  background-color: #fff;
+  font-size: 16px;
+  color: #888;
+}
+.chemispani{
+     margin-right: 100px;
+}

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Damatebiti VisualStudio"
+		},
+		{
+			"path": "../My work"
+		},
+		{
+			"path": "../Git visual"
+		},
+		{
+			"path": "../PROJECTS VISUALSTUDIO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VisualStudio"
+	}
+}
